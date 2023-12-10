@@ -1,0 +1,16 @@
+p {
+  color: blue;
+}
+
+.custom-heading {
+  color: red;
+}
+
+.custom-subheading {
+  color: green;
+}
+
+.custom-footer {
+  color: yellow;
+  background-color: brown;
+}
